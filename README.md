@@ -1,2 +1,1 @@
-# .github
-public organization profile
+# 낙동강 공룡알
